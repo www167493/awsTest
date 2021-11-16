@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/www167493/awsTest#readme",
   "dependencies": {
-    "aws-sdk": "^2.480.0"
+    "aws-sdk": "^2.814.0"
   }
 }
